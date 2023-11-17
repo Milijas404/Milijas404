@@ -1,22 +1,10 @@
-# [Mislav Ilijas]
+# Mislav Ilijas
 
-👋 Hello! I'm [Mislav], a [Student] passionate about [SQL and Python]. Welcome to my GitHub profile!
+👋 Hello! I'm Mislav, a Student passionate about SQL and Python. Welcome to my GitHub profile!
 
 ## 📖 About Me
 
 I am a [Student] with a passion for [Your Area of Interest]. My goal is to [Your Career Goal or Mission]. In my free time, I enjoy [coding, learning and sports].
-
-## 🔧 Skills
-
-- **Programming Languages:** [List of programming languages you are proficient in]
-- **Web Technologies:** [List of web technologies you are familiar with]
-- **Frameworks:** [List of frameworks you have experience with]
-- **Tools & Technologies:** [List any other relevant tools or technologies]
-
-## 📚 Education
-
-- [Masters in Business Analytics and Big Data], [IE University], 2024
-- [Bachelors in Business Management with a Specialization in Finance], [Geneva Business School], 2023
 
 ## 📝 Projects
 
@@ -31,6 +19,27 @@ Here are some of the projects I've worked on:
    - [Live Demo Link, if applicable]
 
    <!-- Add more projects as needed -->
+## 🔧 Skills
+
+### Programming Languages
+
+[![Python](https://img.shields.io/badge/Python-3.8-blue.svg?style=for-the-badge&logo=python)](https://www.python.org/)
+
+### Database
+
+[![SQL](https://img.shields.io/badge/SQL-MySQL-orange.svg?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+
+### Tools & Technologies
+
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI%20Model-9cf.svg?style=for-the-badge)](https://www.openai.com/)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebooks-9cf.svg?style=for-the-badge&logo=google-colab)](https://colab.research.google.com/)
+  
+## 📚 Education
+
+- [Masters in Business Analytics and Big Data], [IE University], 2024
+- [Bachelors in Business Management with a Specialization in Finance], [Geneva Business School], 2023
+
+
 
 ## 📌 Featured Repositories
 
@@ -64,15 +73,14 @@ Highlight a few repositories that you are particularly proud of or want visitors
 
 ## 📫 Contact Me
 
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Twitter:** [Your Twitter Handle]
+- **Email:** Mislav.ilijas@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/mislav-ilijas/
 
 Feel free to reach out if you have any questions or just want to connect!
 
 ---
 
-Feel free to customize the information in the certifications, languages, and fun facts sections to reflect your actual certifications, language proficiency, and personal details. This will give visitors a more personalized and engaging view of your profile.
+
 
 
 
