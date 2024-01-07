@@ -32,7 +32,7 @@ Here are some of the projects I've worked on:
 ### Tools & Technologies
 
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI%20Model-9cf.svg?style=for-the-badge)](https://www.openai.com/)
-(https://img.shields.io/badge/Google%20Colab-Notebooks-9cf.svg?style=for-the-badge&logo=google-colab)](https://colab.research.google.com/)
+[!GoogleColab](https://img.shields.io/badge/Google%20Colab-Notebooks-9cf.svg?style=for-the-badge&logo=google-colab)](https://colab.research.google.com/)
   
 ## 📚 Education
 
