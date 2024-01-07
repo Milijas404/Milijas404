@@ -23,11 +23,11 @@ Here are some of the projects I've worked on:
 
 ### Programming Languages
 
-(https://img.shields.io/badge/Python-3.8-blue.svg?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.8-blue.svg?style=for-the-badge&logo=python)](https://www.python.org/)
 
 ### Database
 
-(https://img.shields.io/badge/SQL-MySQL-orange.svg?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+[![MySQL](https://img.shields.io/badge/SQL-MySQL-orange.svg?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 
 ### Tools & Technologies
 
