@@ -4,7 +4,7 @@
 
 ## 📖 About Me
 
-I am a [Student] with a passion for [Your Area of Interest]. My goal is to [Your Career Goal or Mission]. In my free time, I enjoy [coding, learning and sports].
+I am a Student with a passion for finance, big data. In my free time, I enjoy coding, reading and sports.
 
 ## 📝 Projects
 
@@ -23,21 +23,21 @@ Here are some of the projects I've worked on:
 
 ### Programming Languages
 
-[![Python](https://img.shields.io/badge/Python-3.8-blue.svg?style=for-the-badge&logo=python)](https://www.python.org/)
+(https://img.shields.io/badge/Python-3.8-blue.svg?style=for-the-badge&logo=python)](https://www.python.org/)
 
 ### Database
 
-[![SQL](https://img.shields.io/badge/SQL-MySQL-orange.svg?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+(https://img.shields.io/badge/SQL-MySQL-orange.svg?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 
 ### Tools & Technologies
 
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI%20Model-9cf.svg?style=for-the-badge)](https://www.openai.com/)
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebooks-9cf.svg?style=for-the-badge&logo=google-colab)](https://colab.research.google.com/)
+(https://img.shields.io/badge/Google%20Colab-Notebooks-9cf.svg?style=for-the-badge&logo=google-colab)](https://colab.research.google.com/)
   
 ## 📚 Education
 
-- [Masters in Business Analytics and Big Data], [IE University], 2024
-- [Bachelors in Business Management with a Specialization in Finance], [Geneva Business School], 2023
+- Masters in Business Analytics and Big Data, IE University, 2024
+- Bachelors in Business Management with a Specialization in Finance, Geneva Business School, 2023
 
 
 
@@ -61,15 +61,15 @@ Highlight a few repositories that you are particularly proud of or want visitors
 
 ## 🌐 Languages
 
-- **Language 1:** [Proficiency Level]
-- **Language 2:** [Proficiency Level]
-- **Language 3:** [Proficiency Level]
+- **Croatian:** Native Proficiency
+- **English:** Bilingual Proficiency 
+- **German:** Elementary Proficiency
 
 ## 🎉 Fun Facts
 
-1. **Favorite Hobby:** [Your Favorite Hobby]
-2. **Bucket List Item:** [One Item from Your Bucket List]
-3. **Hidden Talent:** [Your Hidden Talent]
+1. **Favorite Sport:** Jiu-Jitsu 
+2. **Bucket List Item:** Beat my dad at chess 
+3. **Favourite Hobby:** Horology 
 
 ## 📫 Contact Me
 
